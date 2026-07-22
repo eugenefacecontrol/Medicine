@@ -7,6 +7,19 @@
 - `_previews_full/` - JPEG-превью для отображения в таблице.
 - `First box/`, `Second box/` - исходные HEIC-фото.
 
+## GitHub Pages
+
+Онлайн-версия таблицы:
+
+```text
+https://eugenefacecontrol.github.io/Medicine/medicine_table.html
+```
+
+Для GitHub Pages в репозитории должны быть закоммичены:
+
+- `_previews_full/` - картинки для таблицы;
+- `.nojekyll` - чтобы GitHub Pages отдавал папку с `_` в начале имени.
+
 ## Как запустить
 
 Открой PowerShell в папке `C:\Source\Medicine` и запусти:

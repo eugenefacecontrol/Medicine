@@ -1,8 +1,11 @@
 # Generated image artifacts
 _previews/
-_previews_full/
 _contact_sheets/
 _contact_sheets_full/
+
+# Required by medicine_table.html on GitHub Pages
+!_previews_full/
+!_previews_full/**
 
 # Local Python dependencies used for HEIC conversion
 .pydeps/
