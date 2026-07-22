@@ -1,0 +1,29 @@
+# Generated image artifacts
+_previews/
+_previews_full/
+_contact_sheets/
+_contact_sheets_full/
+
+# Local Python dependencies used for HEIC conversion
+.pydeps/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local servers / logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+
+# Codex local metadata
+.agents/
+.codex/
